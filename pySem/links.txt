@@ -1,0 +1,12 @@
+ftp://ftp.ncbi.nih.gov/genomes/Bacteria/Klebsiella_pneumoniae_1084_uid174151/NC_018522.fna
+ftp://ftp.ncbi.nih.gov/genomes/Bacteria/Escherichia_coli_B_REL606_uid58803/NC_012967.fna
+ftp://ftp.ncbi.nih.gov/genomes/Bacteria/Salmonella_enterica_serovar_Bareilly_CFSAN000189_uid212971/NC_021817.fna
+ftp://ftp.ncbi.nih.gov/genomes/Bacteria/Klebsiella_variicola_At_22_uid42113/NC_013850.fna
+ftp://ftp.ncbi.nih.gov/genomes/Bacteria/Escherichia_fergusonii_ATCC_35469_uid59375/NC_011740.fna
+ftp://ftp.ncbi.nih.gov/genomes/Bacteria/Acinetobacter_baumannii_AB0057_uid59083/NC_011585.fna
+ftp://ftp.ncbi.nih.gov/genomes/Bacteria/Enterobacter_aerogenes_EA1509E_uid187411/NC_020180.fna
+ftp://ftp.ncbi.nih.gov/genomes/Bacteria/Shigella_sonnei_53G_uid84383/NC_016822.fna
+ftp://ftp.ncbi.nih.gov/genomes/Bacteria/Morganella_morganii_KT_uid180867/NC_020418.fna
+ftp://ftp.ncbi.nih.gov/genomes/Bacteria/Enterobacter_cloacae_NCTC_9394_uid197202/NC_021046.fna
+ftp://ftp.ncbi.nih.gov/genomes/Bacteria/Alteromonas_macleodii__Aegean_Sea_MED64__uid231689/NC_023045.fna
+ftp://ftp.ncbi.nih.gov/genomes/Bacteria/Zunongwangia_profunda_SM_A87_uid48073/NC_014041.fna

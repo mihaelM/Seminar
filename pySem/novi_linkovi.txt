@@ -1,0 +1,12 @@
+ftp://ftp.ncbi.nih.gov/genomes/Bacteria/Acetobacter_pasteurianus_IFO_3283_22_uid158383/NC_017125.fna
+ftp://ftp.ncbi.nih.gov/genomes/Bacteria/Chlamydia_trachomatis_A_7249_uid196771/NC_020944.fna
+ftp://ftp.ncbi.nih.gov/genomes/Bacteria/Enterobacter_aerogenes_KCTC_2190_uid68103/NC_015663.fna
+ftp://ftp.ncbi.nih.gov/genomes/Bacteria/Helicobacter_cinaedi_ATCC_BAA_847_uid193765/NC_020555.fna
+ftp://ftp.ncbi.nih.gov/genomes/Bacteria/Jannaschia_CCS1_uid58147/NC_007801.fna
+ftp://ftp.ncbi.nih.gov/genomes/Bacteria/Ketogulonicigenium_vulgare_WSH_001_uid161161/NC_017384.fna
+ftp://ftp.ncbi.nih.gov/genomes/Bacteria/Lactobacillus_rhamnosus_GG_uid59313/NC_013198.fna
+ftp://ftp.ncbi.nih.gov/genomes/Bacteria/Solitalea_canadensis_DSM_3403_uid81783/NC_017770.fna
+ftp://ftp.ncbi.nih.gov/genomes/Bacteria/Klebsiella_pneumoniae_1084_uid174151/NC_018522.fna
+ftp://ftp.ncbi.nih.gov/genomes/Bacteria/Escherichia_coli_B_REL606_uid58803/NC_012967.fna
+ftp://ftp.ncbi.nih.gov/genomes/Bacteria/Salmonella_enterica_serovar_Bareilly_CFSAN000189_uid212971/NC_021817.fna
+ftp://ftp.ncbi.nih.gov/genomes/Bacteria/Klebsiella_variicola_At_22_uid42113/NC_013850.fna
